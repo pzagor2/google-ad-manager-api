@@ -2,7 +2,7 @@
 
 # Google Ad Manager Node.js API
 A modern wrapper around Google's [Ad Manager API](https://developers.google.com/ad-manager/docs/start).
-
+edit
 ## Features
 * Promise based - use Promise or async/await
 * Non opinionated about auth mechanisms - obtain a token however you like
